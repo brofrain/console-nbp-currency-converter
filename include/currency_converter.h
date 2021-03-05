@@ -50,13 +50,13 @@ struct currency_converter {
         {"EN",
          "openexchangerates.org/api/currencies.json"} /*,
     {"EN",
-    "brofrain.github.io/nbp_currency_converter_api/currency_names/currency_names_en.json"},
+    "brofrain.github.io/nbp-currency-converter-api/currency-names/currency_names_en.json"},
     {"DE",
-    "brofrain.github.io/nbp_currency_converter_api/currency_names/currency_names_de.json"},
+    "brofrain.github.io/nbp-currency-converter-api/currency-names/currency_names_de.json"},
     {"RU",
-    "brofrain.github.io/nbp_currency_converter_api/currency_names/currency_names_ru.json"},
+    "brofrain.github.io/nbp-currency-converter-api/currency-names/currency_names_ru.json"},
     {"JA",
-    "brofrain.github.io/nbp_currency_converter_api/currency_names/currency_names_ja.json"}*/
+    "brofrain.github.io/nbp-currency-converter-api/currency-names/currency_names_ja.json"}*/
     };
 
     std::map<std::string, json> const HELP_OBJECTS{
